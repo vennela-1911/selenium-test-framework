@@ -1,0 +1,162 @@
+2026-03-13 14:30:26,539 | INFO | Launching browser
+2026-03-13 14:31:07,152 | INFO | Screenshot saved: reports/screenshots/test_admin_users_page_PASS.png
+2026-03-13 14:31:07,156 | INFO | Closing browser
+2026-03-13 14:31:10,106 | INFO | Launching browser
+2026-03-13 14:31:57,288 | INFO | Screenshot saved: reports/screenshots/test_valid_login_FAIL.png
+2026-03-13 14:31:57,290 | INFO | Closing browser
+2026-03-13 14:31:59,912 | INFO | Launching browser
+2026-03-13 14:32:37,393 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[wrong@test.com-123]_PASS.png
+2026-03-13 14:32:37,396 | INFO | Closing browser
+2026-03-13 14:32:40,363 | INFO | Launching browser
+2026-03-13 14:33:10,843 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[invalidemail-password123]_PASS.png
+2026-03-13 14:33:10,846 | INFO | Closing browser
+2026-03-13 14:33:13,677 | INFO | Launching browser
+2026-03-13 14:33:47,363 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[-]_PASS.png
+2026-03-13 14:33:47,427 | INFO | Closing browser
+2026-03-13 14:33:50,563 | INFO | Launching browser
+2026-03-13 14:34:24,539 | INFO | Screenshot saved: reports/screenshots/test_page_title_PASS.png
+2026-03-13 14:34:24,541 | INFO | Closing browser
+2026-03-13 14:34:27,274 | INFO | Launching browser
+2026-03-13 14:34:52,724 | INFO | Screenshot saved: reports/screenshots/test_refresh_PASS.png
+2026-03-13 14:34:52,729 | INFO | Closing browser
+2026-03-13 14:34:55,407 | INFO | Launching browser
+2026-03-13 14:35:32,246 | INFO | Screenshot saved: reports/screenshots/test_dashboard_redirect_PASS.png
+2026-03-13 14:35:32,250 | INFO | Closing browser
+2026-03-13 14:35:35,111 | INFO | Launching browser
+2026-03-13 14:35:40,722 | INFO | Screenshot saved: reports/screenshots/test_project_page_PASS.png
+2026-03-13 14:35:40,728 | INFO | Closing browser
+2026-03-13 14:40:07,001 | INFO | Launching browser
+2026-03-13 14:40:47,558 | INFO | Screenshot saved: reports/screenshots/test_admin_users_page_FAIL.png
+2026-03-13 14:40:47,561 | INFO | Closing browser
+2026-03-13 14:40:50,260 | INFO | Launching browser
+2026-03-13 14:41:09,897 | INFO | Screenshot saved: reports/screenshots/test_valid_login_FAIL.png
+2026-03-13 14:41:09,968 | INFO | Closing browser
+2026-03-13 14:41:13,211 | INFO | Launching browser
+2026-03-13 14:41:56,140 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[wrong@test.com-123]_FAIL.png
+2026-03-13 14:41:56,141 | INFO | Closing browser
+2026-03-13 14:41:58,909 | INFO | Launching browser
+2026-03-13 14:42:19,470 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[invalidemail-password123]_FAIL.png
+2026-03-13 14:42:19,544 | INFO | Closing browser
+2026-03-13 14:42:22,520 | INFO | Launching browser
+2026-03-13 14:43:03,481 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[-]_FAIL.png
+2026-03-13 14:43:03,648 | INFO | Closing browser
+2026-03-13 14:43:08,162 | INFO | Launching browser
+2026-03-13 14:43:35,377 | INFO | Screenshot saved: reports/screenshots/test_page_title_PASS.png
+2026-03-13 14:43:35,379 | INFO | Closing browser
+2026-03-13 14:43:38,036 | INFO | Launching browser
+2026-03-13 14:43:55,101 | INFO | Screenshot saved: reports/screenshots/test_refresh_PASS.png
+2026-03-13 14:43:55,104 | INFO | Closing browser
+2026-03-13 14:43:57,777 | INFO | Launching browser
+2026-03-13 14:44:37,086 | INFO | Screenshot saved: reports/screenshots/test_dashboard_redirect_FAIL.png
+2026-03-13 14:44:37,089 | INFO | Closing browser
+2026-03-13 14:44:39,927 | INFO | Launching browser
+2026-03-13 14:44:59,172 | INFO | Screenshot saved: reports/screenshots/test_project_page_FAIL.png
+2026-03-13 14:44:59,174 | INFO | Closing browser
+2026-03-13 14:46:35,271 | INFO | Launching browser
+2026-03-13 14:47:22,611 | INFO | Screenshot saved: reports/screenshots/test_admin_users_page_FAIL.png
+2026-03-13 14:47:22,615 | INFO | Closing browser
+2026-03-13 14:47:25,409 | INFO | Launching browser
+2026-03-13 14:48:19,621 | INFO | Screenshot saved: reports/screenshots/test_valid_login_FAIL.png
+2026-03-13 14:48:19,623 | INFO | Closing browser
+2026-03-13 14:48:22,417 | INFO | Launching browser
+2026-03-13 14:49:17,044 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[wrong@test.com-123]_FAIL.png
+2026-03-13 14:49:17,047 | INFO | Closing browser
+2026-03-13 14:49:19,927 | INFO | Launching browser
+2026-03-13 14:49:44,998 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[invalidemail-password123]_FAIL.png
+2026-03-13 14:49:45,001 | INFO | Closing browser
+2026-03-13 14:49:47,732 | INFO | Launching browser
+2026-03-13 14:50:34,330 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[-]_FAIL.png
+2026-03-13 14:50:34,347 | INFO | Closing browser
+2026-03-13 14:50:37,131 | INFO | Launching browser
+2026-03-13 14:51:05,836 | INFO | Screenshot saved: reports/screenshots/test_page_title_PASS.png
+2026-03-13 14:51:05,838 | INFO | Closing browser
+2026-03-13 14:51:08,722 | INFO | Launching browser
+2026-03-13 14:51:21,284 | INFO | Screenshot saved: reports/screenshots/test_refresh_PASS.png
+2026-03-13 14:51:21,286 | INFO | Closing browser
+2026-03-13 14:51:23,987 | INFO | Launching browser
+2026-03-13 14:52:19,041 | INFO | Screenshot saved: reports/screenshots/test_dashboard_redirect_FAIL.png
+2026-03-13 14:52:19,060 | INFO | Closing browser
+2026-03-13 14:52:22,634 | INFO | Launching browser
+2026-03-13 14:53:18,262 | INFO | Screenshot saved: reports/screenshots/test_project_page_FAIL.png
+2026-03-13 14:53:18,265 | INFO | Closing browser
+2026-03-13 14:56:11,922 | INFO | Launching browser
+2026-03-13 14:57:06,964 | INFO | Screenshot saved: reports/screenshots/test_admin_users_page_FAIL.png
+2026-03-13 14:57:06,968 | INFO | Closing browser
+2026-03-13 14:57:09,834 | INFO | Launching browser
+2026-03-13 14:57:35,158 | INFO | Screenshot saved: reports/screenshots/test_valid_login_FAIL.png
+2026-03-13 14:57:35,160 | INFO | Closing browser
+2026-03-13 14:57:37,933 | INFO | Launching browser
+2026-03-13 14:58:31,475 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[wrong@test.com-123]_FAIL.png
+2026-03-13 14:58:31,479 | INFO | Closing browser
+2026-03-13 14:58:34,409 | INFO | Launching browser
+2026-03-13 14:59:22,756 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[invalidemail-password123]_FAIL.png
+2026-03-13 14:59:22,776 | INFO | Closing browser
+2026-03-13 14:59:28,419 | INFO | Launching browser
+2026-03-13 15:00:23,197 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[-]_FAIL.png
+2026-03-13 15:00:23,199 | INFO | Closing browser
+2026-03-13 15:00:26,138 | INFO | Launching browser
+2026-03-13 15:00:30,955 | INFO | Screenshot saved: reports/screenshots/test_page_title_PASS.png
+2026-03-13 15:00:30,958 | INFO | Closing browser
+2026-03-13 15:00:33,661 | INFO | Launching browser
+2026-03-13 15:00:57,654 | INFO | Screenshot saved: reports/screenshots/test_refresh_PASS.png
+2026-03-13 15:00:57,655 | INFO | Closing browser
+2026-03-13 15:01:00,220 | INFO | Launching browser
+2026-03-13 15:01:55,545 | INFO | Screenshot saved: reports/screenshots/test_dashboard_redirect_FAIL.png
+2026-03-13 15:01:55,547 | INFO | Closing browser
+2026-03-13 15:01:58,906 | INFO | Launching browser
+2026-03-13 15:02:24,550 | INFO | Screenshot saved: reports/screenshots/test_project_page_FAIL.png
+2026-03-13 15:02:24,554 | INFO | Closing browser
+2026-03-13 15:04:40,658 | INFO | Launching browser
+2026-03-13 15:04:46,453 | INFO | Screenshot saved: reports/screenshots/test_admin_users_page_PASS.png
+2026-03-13 15:04:46,456 | INFO | Closing browser
+2026-03-13 15:04:49,512 | INFO | Launching browser
+2026-03-13 15:05:24,485 | INFO | Screenshot saved: reports/screenshots/test_valid_login_PASS.png
+2026-03-13 15:05:24,490 | INFO | Closing browser
+2026-03-13 15:05:27,361 | INFO | Launching browser
+2026-03-13 15:06:00,925 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[wrong@test.com-123]_PASS.png
+2026-03-13 15:06:00,929 | INFO | Closing browser
+2026-03-13 15:06:03,728 | INFO | Launching browser
+2026-03-13 15:06:30,398 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[invalidemail-password123]_PASS.png
+2026-03-13 15:06:30,411 | INFO | Closing browser
+2026-03-13 15:06:33,241 | INFO | Launching browser
+2026-03-13 15:06:59,723 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[-]_PASS.png
+2026-03-13 15:06:59,729 | INFO | Closing browser
+2026-03-13 15:07:02,449 | INFO | Launching browser
+2026-03-13 15:07:18,657 | INFO | Screenshot saved: reports/screenshots/test_page_title_PASS.png
+2026-03-13 15:07:18,658 | INFO | Closing browser
+2026-03-13 15:07:21,386 | INFO | Launching browser
+2026-03-13 15:07:47,450 | INFO | Screenshot saved: reports/screenshots/test_refresh_PASS.png
+2026-03-13 15:07:47,483 | INFO | Closing browser
+2026-03-13 15:07:50,271 | INFO | Launching browser
+2026-03-13 15:08:24,359 | INFO | Screenshot saved: reports/screenshots/test_dashboard_redirect_PASS.png
+2026-03-13 15:08:24,370 | INFO | Closing browser
+2026-03-13 15:08:27,288 | INFO | Launching browser
+2026-03-13 15:08:31,918 | INFO | Screenshot saved: reports/screenshots/test_project_page_PASS.png
+2026-03-13 15:08:31,920 | INFO | Closing browser
+2026-03-13 15:15:37,453 | INFO | Launching browser
+2026-03-13 15:15:46,025 | INFO | Screenshot saved: reports/screenshots/test_admin_users_page_PASS.png
+2026-03-13 15:15:46,041 | INFO | Closing browser
+2026-03-13 15:15:49,541 | INFO | Launching browser
+2026-03-13 15:16:18,938 | INFO | Screenshot saved: reports/screenshots/test_valid_login_PASS.png
+2026-03-13 15:16:18,953 | INFO | Closing browser
+2026-03-13 15:16:22,531 | INFO | Launching browser
+2026-03-13 15:16:56,979 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[wrong@test.com-123]_PASS.png
+2026-03-13 15:16:56,982 | INFO | Closing browser
+2026-03-13 15:16:59,643 | INFO | Launching browser
+2026-03-13 15:17:05,296 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[invalidemail-password123]_PASS.png
+2026-03-13 15:17:05,312 | INFO | Closing browser
+2026-03-13 15:17:09,643 | INFO | Launching browser
+2026-03-13 15:17:45,890 | INFO | Screenshot saved: reports/screenshots/test_invalid_login_matrix[-]_PASS.png
+2026-03-13 15:17:46,081 | INFO | Closing browser
+2026-03-13 15:17:49,320 | INFO | Launching browser
+2026-03-13 15:18:05,526 | INFO | Screenshot saved: reports/screenshots/test_page_title_PASS.png
+2026-03-13 15:18:05,529 | INFO | Closing browser
+2026-03-13 15:18:08,173 | INFO | Launching browser
+2026-03-13 15:18:34,621 | INFO | Screenshot saved: reports/screenshots/test_refresh_PASS.png
+2026-03-13 15:18:34,629 | INFO | Closing browser
+2026-03-13 15:18:37,739 | INFO | Launching browser
+2026-03-13 15:19:11,386 | INFO | Screenshot saved: reports/screenshots/test_dashboard_redirect_PASS.png
+2026-03-13 15:19:11,388 | INFO | Closing browser
+2026-03-13 15:19:14,134 | INFO | Launching browser
+2026-03-13 15:19:41,135 | INFO | Screenshot saved: reports/screenshots/test_project_page_PASS.png
+2026-03-13 15:19:41,139 | INFO | Closing browser

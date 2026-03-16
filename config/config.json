@@ -1,0 +1,5 @@
+{
+  "base_url": "https://react-frontend-api-testing.vercel.app",
+  "login_url": "https://react-frontend-api-testing.vercel.app/login",
+  "browser": "chrome"
+}
