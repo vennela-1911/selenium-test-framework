@@ -6,6 +6,8 @@ COPY . .
 
 RUN mkdir -p logs reports/allure-results
 
+RUN chmod -R 777 logs
+
 RUN pip install pytest selenium
 
 CMD ["pytest", "-v", "--alluredir=reports/allure-results"]
