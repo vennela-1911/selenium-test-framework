@@ -1,9 +1,9 @@
+version: "3"
+
 services:
   automation-tests:
     build: .
     container_name: selenium_framework_tests
     volumes:
       - .:/app
-      - ./logs:/app/logs
-      - ./reports:/app/reports
     command: pytest -v --alluredir=reports/allure-results
