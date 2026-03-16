@@ -2,7 +2,6 @@ import logging
 import os
 
 def get_logger():
-
     log_dir = "logs"
     os.makedirs(log_dir, exist_ok=True)
 
@@ -10,9 +9,8 @@ def get_logger():
 
     logging.basicConfig(
         filename=log_file,
-        filemode="a",
-        format="%(asctime)s | %(levelname)s | %(message)s",
-        level=logging.INFO
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s"
     )
 
     return logging.getLogger()
