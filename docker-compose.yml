@@ -1,8 +1,11 @@
+version: "3"
+
 services:
   automation-tests:
     build: .
     container_name: selenium_framework_tests
     volumes:
       - .:/app
-    working_dir: /app
-    command: bash -c "mkdir -p logs reports/allure-results && pytest -v --alluredir=reports/allure-results"
+      - ./logs:/app/logs
+      - ./reports:/app/reports
+    command: sh -c "mkdir -p /app/logs && chmod -R 777 /app/logs && pytest -v --alluredir=reports/allure-results"
