@@ -6,4 +6,5 @@ services:
     container_name: selenium_framework_tests
     volumes:
       - .:/app
-    command: pytest -v --alluredir=reports/allure-results
+    working_dir: /app
+    command: bash -c "mkdir -p reports/allure-results && pytest -v --alluredir=reports/allure-results"
