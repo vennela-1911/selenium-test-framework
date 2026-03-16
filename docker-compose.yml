@@ -1,5 +1,3 @@
-version: "3"
-
 services:
   automation-tests:
     build: .
@@ -7,4 +5,4 @@ services:
     volumes:
       - .:/app
     working_dir: /app
-    command: bash -c "mkdir -p reports/allure-results && pytest -v --alluredir=reports/allure-results"
+    command: bash -c "mkdir -p logs reports/allure-results && pytest -v --alluredir=reports/allure-results"
